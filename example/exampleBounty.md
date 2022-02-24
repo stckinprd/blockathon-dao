@@ -7,7 +7,7 @@ Sponsor: bitfwd
 Description
 We are looking to create a PoC/MVP for a Bounty Platform for all of our sponsors. 
 
-Similar to how Gitcoin operates but to make it as user-firnedlt as possible. 
+Similar to how Gitcoin operates but to make it as user-friendly as possible. 
 
 Example
 - https://blockathon.xyz/
