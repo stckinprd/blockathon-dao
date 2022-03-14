@@ -9,10 +9,7 @@ We might want to give guidance around minimum bounty prizes, maybe this is somet
 - $2000 for a PoC/MVP for an integration
 
 ## Submission
-We can create a bitfwd Repo for the Blockathon
 There we can accept PR’s from sponsors in separate README files
-
-
 
 ## Other bounty examples
 https://gitcoin.co/explorer 
@@ -24,8 +21,6 @@ https://gitcoin.co/issue/beefyfinance/beefy-docs/64/100027104
 - This does not require them to be on the Discord every hour but checking in a few times throughout the day and answering questions would be optimal.  
 - Your sponsor tag will be present on Discord to let people know that your project is being an active community member.
 - Let your own community members know that you are part of this event! By activating contributors who are already familiar and passionate about your brand, you can increase the quality of submissions. It is also an opportunity to strengthen those already existing relationships.
-
-
 
 ## BEST PRACTICES - THE BOUNTY DESCRIPTION
 - Being as specific as possible on what the task requires is very important. The more information written on the bounty will help with the eventual outcome for assessment. We have found that vague or too open-ended bounty descriptions attract a wide range of submission quality, which ends up not meeting project expectations.
