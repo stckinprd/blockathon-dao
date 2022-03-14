@@ -1,36 +1,53 @@
 # Blockathon Bounties
-We might want to give guidance around minimum bounty prizes, maybe this is something we can finess once we have the dedicated partner telegram channel up and we got some responses from the workshop questionnaire.
-
-## Suggestions
-- Typical bounties: 3 - 7 (depending on the tier of sponsorship)
-- Prize Range: $250 - $2000
-- $250 for a resource guide 
-- $1000 for a Dune Dashboard
-- $2000 for a PoC/MVP for an integration
+These are the available blockathon bounties for the 2022 Blockathon Hack
 
 ## Submission
-There we can accept PR’s from sponsors in separate README files
+Please sign up here: [https://blockathon.devpost.com/](https://blockathon.devpost.com/) for the DevPost Submissions. Submissions will begin on the 18th of March 2022. Only new projects will be assessed. 
 
-## Other bounty examples
-https://gitcoin.co/explorer 
-https://gitcoin.co/issue/poapathon/poapathon2021/9/100027135 
-https://gitcoin.co/issue/beefyfinance/beefy-docs/64/100027104
-
-## BEST PRACTICES - ONLINE PRESENCE
-- We have seen the most value for both sponsors and participants when they are active in the Discord Channel + general wider community.
-- This does not require them to be on the Discord every hour but checking in a few times throughout the day and answering questions would be optimal.  
-- Your sponsor tag will be present on Discord to let people know that your project is being an active community member.
-- Let your own community members know that you are part of this event! By activating contributors who are already familiar and passionate about your brand, you can increase the quality of submissions. It is also an opportunity to strengthen those already existing relationships.
-
-## BEST PRACTICES - THE BOUNTY DESCRIPTION
-- Being as specific as possible on what the task requires is very important. The more information written on the bounty will help with the eventual outcome for assessment. We have found that vague or too open-ended bounty descriptions attract a wide range of submission quality, which ends up not meeting project expectations.
-- A Loom video / recording describing the bounty and what you’re looking for would be really useful and have a nice personal touch to the bounty if possible.
-- Threads in your #sponsor channel are a great way to organize your bounties messages as people are interested in different fields of work. 
-- Make sure you’re setting your participants up for success! Please include links to your brand assets (logo, fonts, color palettes, brand guidelines, any marketing websites, etc.) with your bounty description.
+## Hypercore	
+Prize: 2 KSM, 3 winners	
+Dynamic storage	Use hypercore's mutable, append-only, nature to store and propagate dynamic content among users of your project. You may use "hyperdrives" to store file-like content in a filesystem-like way, or directly work with hypercores or hyperbees - raw append-only logs and trees respectively - to store data more directly. Using the hyper* stack for longer term storage purposes qualifies for this bounty. As a prerequisite, If storing user owned data or content, ensure that users store data in hypercores/drives that they control personally. Projects can claim this bounty alongside others from DatDot, and maybe other sponsors as well, depending on their criteria.
 
 
-## BEST PRACTICES - ENGAGEMENT
-- By participating in the calls, being responsive to any participant questions helps them feel supported and engaged with the company. 
-- This could lead to future contributions in your company at the end of the hackathon. 
+## Hypercore
+Prize: 3 KSM, 3 winner
+Caching	Use hyper* (cores, drives, swarms, bees, etc.) as a decentralized caching/access layer for an api you use or provide. API request responses can be stored and retrieved like files in a hyperdrive, or key value entries in a hyperbees. Those stored API responses can then be retrieved in a decentralized manner by querying the swarm, instead of connecting to a central API endpoint. Populate and update your hypercore-based storage as appropriate for your usecase and use it for DDoS protection, cost reduction, and performance improvements for your API endpoints. Projects can claim this bounty alongside others from DatDot, and maybe other sponsors as well, depending on their criteria.
 
+## Hypercore	
+Prize: 2 KSM, 3 winners
+Live Content
+Make use of hypercores' dynamic nature to share live or streaming data - this includes usecases as simple as chat or more complex usecases like streaming video, audio, or complex data/state. Hypercores are very performant in terms of update propagation, (in comparison to primitives like IPNS, using a blockchain, or propagating updates via a DHT,) among their peer swarms, and can be used for near-realtime communication among small swarms of peers (and automagic load balancing for heavier usecases or larger amounts of peers). Take advantage of this property to allow live communication between peers in your project. An example quick and dirty submission could automatically record your screen or webcam into many small video files in a designated folder, and automatically play back video files in sequence from another designated folder as new ones are added, you could then use hyperdrive or hyperspace to sync folders between peers for a rudimentary p2p video chat. Projects can claim this bounty alongside others from DatDot, and maybe other sponsors as well, depending on their criteria.
 
+## Cryptosat.io	
+Prize: 500 USDC (TBC)	
+Space Inventor	
+
+## Cryptosat.io	
+Prize: 400 USDC (TBC)	
+Space Debugger	
+Help us find and fix bugs in the Cryptosat Simulator
+
+## Cryptosat.io
+Prize: 500 USDC (TBC)	
+Space Designer
+Design a cool graphic theme for the Cryptosat Simulator
+
+## Talisman
+Prize: 500 USDC
+Integrate Talisman
+Build a dapp on any Parachain which leverages Talisman
+
+## Metis
+Prize: $500
+Build your DAO Tooling DApps on the EVM-equivalent Metis Layer 2
+Decentralized Autonomous Organization (DAO) Management Tooling Track: Build a Bounty Platform, Voting Tools, Payroll Management, Timelock, Knowledge Management Tools, or related DAO Tooling on the EVM-equivalent Metis Layer 2
+
+## Metis
+Prize: $500
+We are looking for projects that deliver value to a DAO. In this case, solutions that make participating in a DAO easier to do, more transparent, and/or more rewarding.	
+
+## SmartTokenLabs
+Prize: TBC
+Judging Criteria: Creativity, Use case, Collaboration with other projects
+Entry Submission
+Create a PR against our examples repository https://github.com/TokenScript/token-negotiator-examples, then add to the DevPost. Our judging panel will review your concept 🚀
