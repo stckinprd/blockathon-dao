@@ -24,12 +24,16 @@ Space Inventor: Propose ways to use crypto satellites and extend the Cryptosat S
 
 ## Cryptosat.io	
 Prize: 100 USDC (TBC)	
-Space Debugger:	
+
+Space Debugger	
+
 Help us find and fix bugs in the Cryptosat Simulator.
 
 ## Cryptosat.io
 Prize: 500 USDC (TBC)	
-Space Designer:
+
+Space Designer
+
 Design a cool new theme (or improve the current) for the Cryptosat Simulator.
 
 ## Talisman
