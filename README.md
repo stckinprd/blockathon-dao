@@ -51,3 +51,19 @@ Prize: TBC
 Judging Criteria: Creativity, Use case, Collaboration with other projects
 Entry Submission
 Create a PR against our examples repository https://github.com/TokenScript/token-negotiator-examples, then add to the DevPost. Our judging panel will review your concept 🚀
+
+## Deep DAO 
+Prize: $1000 between 3 winners.
+
+This one goes to all the DAO people, researchers, governance nerds
+
+If you’re a DAO enthusiast at heart, and have the connections and drive to change the state of governance in the world. In a word, it's for DAOists. The top 3 people who onboard the most users to DeepDAO's governance profiles will win the prize. 
+
+How to win?
+Search on our site for anyone in the top 10,000 ranked profiles of DAO activity, and have them log in with their wallet and write in their description that they were onboarded by you. 
+
+Tip on how to find the top 10k users: 
+
+Head over to DeepDAO.io main Organizations dashboard, browse the organizations members tab, and find the people who are the most involved, those who created the most proposals and voted the most. They are the most active people, and the ones you're looking for. Go to their profiles, and then find them where they are: in their DAO's discords, on twitter, in Snapshot or Aragon or DAOhaus. In the process you will learn the ecosystem and gain the knowledge of the early adaptors and innovators in the field. 
+
+Good DAO luck!
