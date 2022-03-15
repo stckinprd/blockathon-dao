@@ -23,7 +23,7 @@ Prize: 500 USDC (TBC)
 Space Inventor	
 
 ## Cryptosat.io	
-Prize: 400 USDC (TBC)	
+Prize: 100 USDC (TBC)	
 Space Debugger	
 Help us find and fix bugs in the Cryptosat Simulator
 
