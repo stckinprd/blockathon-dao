@@ -20,17 +20,17 @@ Make use of hypercores' dynamic nature to share live or streaming data - this in
 
 ## Cryptosat.io	
 Prize: 500 USDC (TBC)	
-Space Inventor	
+Space Inventor: Propose ways to use crypto satellites and extend the Cryptosat Simulator with new use-cases.
 
 ## Cryptosat.io	
-Prize: 400 USDC (TBC)	
-Space Debugger	
-Help us find and fix bugs in the Cryptosat Simulator
+Prize: 100 USDC (TBC)	
+Space Debugger:	
+Help us find and fix bugs in the Cryptosat Simulator.
 
 ## Cryptosat.io
 Prize: 500 USDC (TBC)	
-Space Designer
-Design a cool graphic theme for the Cryptosat Simulator
+Space Designer:
+Design a cool new theme (or improve the current) for the Cryptosat Simulator.
 
 ## Talisman
 Prize: 500 USDC
