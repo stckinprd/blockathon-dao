@@ -49,21 +49,27 @@ Design a cool new theme (or improve the current) for the Cryptosat Simulator.
 
 ## Talisman
 Prize: 500 USDC
+
 Integrate Talisman
+
 Build a dapp on any Parachain which leverages Talisman
 
 ## Metis
 Prize: $500
+
 Build your DAO Tooling DApps on the EVM-equivalent Metis Layer 2
 Decentralized Autonomous Organization (DAO) Management Tooling Track: Build a Bounty Platform, Voting Tools, Payroll Management, Timelock, Knowledge Management Tools, or related DAO Tooling on the EVM-equivalent Metis Layer 2
 
 ## Metis
 Prize: $500
+
 We are looking for projects that deliver value to a DAO. In this case, solutions that make participating in a DAO easier to do, more transparent, and/or more rewarding.	
 
 ## SmartTokenLabs
 Prize: TBC
+
 Judging Criteria: Creativity, Use case, Collaboration with other projects
+
 Entry Submission
 Create a PR against our examples repository https://github.com/TokenScript/token-negotiator-examples, then add to the DevPost. Our judging panel will review your concept 🚀
 
