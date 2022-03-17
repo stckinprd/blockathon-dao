@@ -6,16 +6,24 @@ Please sign up here: [https://blockathon.devpost.com/](https://blockathon.devpos
 
 ## Hypercore	
 Prize: 2 KSM, 3 winners	
-Dynamic storage	Use hypercore's mutable, append-only, nature to store and propagate dynamic content among users of your project. You may use "hyperdrives" to store file-like content in a filesystem-like way, or directly work with hypercores or hyperbees - raw append-only logs and trees respectively - to store data more directly. Using the hyper* stack for longer term storage purposes qualifies for this bounty. As a prerequisite, If storing user owned data or content, ensure that users store data in hypercores/drives that they control personally. Projects can claim this bounty alongside others from DatDot, and maybe other sponsors as well, depending on their criteria.
+
+Dynamic storage	
+
+Use hypercore's mutable, append-only, nature to store and propagate dynamic content among users of your project. You may use "hyperdrives" to store file-like content in a filesystem-like way, or directly work with hypercores or hyperbees - raw append-only logs and trees respectively - to store data more directly. Using the hyper* stack for longer term storage purposes qualifies for this bounty. As a prerequisite, If storing user owned data or content, ensure that users store data in hypercores/drives that they control personally. Projects can claim this bounty alongside others from DatDot, and maybe other sponsors as well, depending on their criteria.
 
 
 ## Hypercore
 Prize: 3 KSM, 3 winner
-Caching	Use hyper* (cores, drives, swarms, bees, etc.) as a decentralized caching/access layer for an api you use or provide. API request responses can be stored and retrieved like files in a hyperdrive, or key value entries in a hyperbees. Those stored API responses can then be retrieved in a decentralized manner by querying the swarm, instead of connecting to a central API endpoint. Populate and update your hypercore-based storage as appropriate for your usecase and use it for DDoS protection, cost reduction, and performance improvements for your API endpoints. Projects can claim this bounty alongside others from DatDot, and maybe other sponsors as well, depending on their criteria.
+
+Caching	
+
+Use hyper* (cores, drives, swarms, bees, etc.) as a decentralized caching/access layer for an api you use or provide. API request responses can be stored and retrieved like files in a hyperdrive, or key value entries in a hyperbees. Those stored API responses can then be retrieved in a decentralized manner by querying the swarm, instead of connecting to a central API endpoint. Populate and update your hypercore-based storage as appropriate for your usecase and use it for DDoS protection, cost reduction, and performance improvements for your API endpoints. Projects can claim this bounty alongside others from DatDot, and maybe other sponsors as well, depending on their criteria.
 
 ## Hypercore	
 Prize: 2 KSM, 3 winners
+
 Live Content
+
 Make use of hypercores' dynamic nature to share live or streaming data - this includes usecases as simple as chat or more complex usecases like streaming video, audio, or complex data/state. Hypercores are very performant in terms of update propagation, (in comparison to primitives like IPNS, using a blockchain, or propagating updates via a DHT,) among their peer swarms, and can be used for near-realtime communication among small swarms of peers (and automagic load balancing for heavier usecases or larger amounts of peers). Take advantage of this property to allow live communication between peers in your project. An example quick and dirty submission could automatically record your screen or webcam into many small video files in a designated folder, and automatically play back video files in sequence from another designated folder as new ones are added, you could then use hyperdrive or hyperspace to sync folders between peers for a rudimentary p2p video chat. Projects can claim this bounty alongside others from DatDot, and maybe other sponsors as well, depending on their criteria.
 
 ## Cryptosat.io	
