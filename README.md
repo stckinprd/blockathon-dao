@@ -66,7 +66,10 @@ Prize: $500
 We are looking for projects that deliver value to a DAO. In this case, solutions that make participating in a DAO easier to do, more transparent, and/or more rewarding.	
 
 ## SmartTokenLabs
-Prize: TBC
+Prize: $3000 USD
+
+1 bounty $1500 USD
+5 bounties $300 ea
 
 Judging Criteria: Creativity, Use case, Collaboration with other projects
 
