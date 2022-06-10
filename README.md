@@ -1,8 +1,37 @@
 # Blockathon Bounties
 These are the available blockathon bounties for the 2022 Blockathon Hack
 
-## Submission
-Please sign up here: [https://blockathon.devpost.com/](https://blockathon.devpost.com/) for the DevPost Submissions. Submissions will begin on the 18th of March 2022. Only new projects will be assessed. 
+## Reality Chain
+Prize:
+1st $400
+2nd $200
+3rd $150
+4th $125
+5th $75
+
+Building 3D Models for the RealityChain Metaverse
+
+We're looking to find the best Parcel & Asset design for our metaverse engine, Realitychain 2DVerse.
+We're preparing a TOTAL OF $2000 for 10 winners! Five winners for each bounty type
+
+Timeline: 
+Closing Submission: 1 July 2022
+Winner Announcement: 8 July 2022
+
+Terms & Condition:
+1. This competition is free, with no registration fee required. We are not responsible if you pay a certain amount of money to a party claiming to be RealityChain
+2. Submissions that do not meet the specifications according to the guidelines can be declared disqualified.
+3. To test minted NFT in the 2DVerse itself, you can go to https://myriad.town
+
+Submission Form:
+..* Avatar Bounty Submission Form (https://docs.google.com/forms/d/e/1FAIpQLSfjc-4sx8mJJMtIimbshzG1zHfFF-T8fYnSxHDv6r2-NtCRdA/viewform)
+..* Parcel Bounty Submission Form (https://docs.google.com/forms/d/e/1FAIpQLScnOAcG2IYdvfktS8d3zz8uJioLOktLlMFKJoU3Cpq9_pDjsw/viewform)
+
+Additional Information / Resources:
+..* Asset Creation Guidelines (https://docs.realitychain.io/asset-creation-guidelines/intro)
+..* Avatar Asset Sample (https://drive.google.com/drive/folders/1MmiuNcp5G84kVWEQkLtkqHvHhCxod33j)
+..* Parcel Object Asset Sample (https://drive.google.com/drive/folders/1117INTgIDGrKyzfBzI3YLL1u6qXEAKFf)
+..* NFT Minting Tutorial (https://docs.realitychain.io/nft-minting/utility-item-minting-on-paras)
 
 ## Hypercore	
 Prize: 2 KSM, 3 winners	
